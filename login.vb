@@ -1,4 +1,6 @@
 ﻿Imports System.Data.SqlClient
+'yêu cầu sửa lại lỗi chính tả trong ghi chú ghi sai chính tả đọc càng khó hiểu hơn
+' tôi đã thêm chỗ này :)
 Public Class frm1
     'xử lý dụe kiện nút buttom'
     Private Sub btn1_Click(sender As Object, e As EventArgs) Handles btn1.Click

@@ -12,3 +12,7 @@ C:\Users\nguyen\Documents\Visual Studio 2013\Projects\WindowsApplication2\Window
 C:\Users\nguyen\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Frmsanpham.resources
 C:\Users\nguyen\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.quanlykhachhang.resources
 C:\Users\nguyen\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Frmadmin.resources
+E:\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+E:\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+E:\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
